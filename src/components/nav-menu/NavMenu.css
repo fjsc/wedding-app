@@ -1,0 +1,9 @@
+.navMenu {
+    background: #1A4173;
+}
+
+.navMenu--item{
+    width:33%;
+    display: inline-block;
+    color:white;
+}

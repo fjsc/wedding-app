@@ -1,0 +1,24 @@
+.Init-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('./splash.jpg');
+    background-position: top;
+    background-size: cover;
+}
+
+.Init-logo-container {
+    position:absolute;
+    top:50%;
+    position:absolute;
+    margin-top:-20%;
+    width: 100%;
+}
+.Init-logo {
+    max-width:80%;
+    margin:0 auto;
+    display:block;
+}
+
